@@ -111,6 +111,3 @@ Muted players are blocked from chatting and from a small set of commands (`me`, 
 | `ban_complements.command.report` | everyone | Allows reporting players |
 | `ban_complements.notify.report` | op | Receives report notifications |
 
-## License
-
-Add your license of choice here.
