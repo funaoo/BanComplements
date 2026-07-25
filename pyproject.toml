@@ -1,0 +1,12 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "endstone-ban-complements"
+version = "1.0.0"
+description = "Ban, mute, kick and report moderation suite for Endstone servers"
+requires-python = ">=3.10"
+
+[project.entry-points."endstone"]
+ban-complements = "endstone_ban_complements:BanComplements"

@@ -1,0 +1,14 @@
+[webhooks]
+ban = ""
+ban_ip = ""
+mute = ""
+report = ""
+
+[messages]
+prefix = "§8(§6BanComplements§8) §7"
+permanent_ban = "§7You have been banned from this server\n§7{DATE} §e(§7{STAFF} : {REASON}§e)\n§7Time left: §eNever"
+temporary_ban = "§7You have been banned from this server\n§7{DATE} §e(§7{STAFF} : {REASON}§e)\n§7Time left: §e{TIME}"
+permanent_ip_ban = "§7You have been IP banned from this server\n§7{DATE} §e(§7{STAFF} : {REASON}§e)\n§7Time left: §eNever"
+temporary_ip_ban = "§7You have been IP banned from this server\n§7{DATE} §e(§7{STAFF} : {REASON}§e)\n§7Time left: §e{TIME}"
+temporary_mute = "§7You have been muted\n§7{DATE} §e(§7{STAFF} : {REASON}§e)\n§7Time left: §e{TIME}"
+kick = "§7You have been kicked from this server\n§7Reason: §e{REASON} §7(§e{STAFF}§7)"
