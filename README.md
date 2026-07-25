@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" alt="Ban Complements logo" width="220">
-</p>
-
 # Ban Complements
 
 Moderation plugin for [Endstone](https://endstone.dev/) (Bedrock Dedicated Server): permanent/temporary bans, IP bans,
